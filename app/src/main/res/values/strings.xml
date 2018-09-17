@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Gicd Project</string>
+    <string name="name">Name</string>
+    <string name="email">E-mail</string>
+    <string name="phone">Phone</string>
+    <string name="Save">Save</string>
+    <string name="Show">Show</string>
+    <string name="hintName">Enter Name</string>
+    <string name="hintEmail">Enter Email</string>
+    <string name="hintPhone">Enter Phone Number</string>
+    <string name="bgImage">Content Description</string>
+
+</resources>
